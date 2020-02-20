@@ -1,0 +1,29 @@
+{
+  "name": "park-node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "address": "^1.1.2",
+    "axios": "^0.19.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "^2.6.9",
+    "delay": "^4.3.0",
+    "detect-file": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.1",
+    "mqtt": "^3.0.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "validator": "^12.2.0"
+  }
+}

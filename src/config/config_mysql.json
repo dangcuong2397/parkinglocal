@@ -1,0 +1,8 @@
+{
+	"connectionLimit": 10,
+	"database": "parking_local1",
+	"port": 3306,
+	"host": "localhost",
+	"user": "root",
+	"password": "tinasoft"
+}
